@@ -36,7 +36,7 @@ body {
 }
 
 .text-flex {
-  padding: 1.5rem;
+  padding: 1rem;
   margin: 0;
   background-color: #e2e2e2;
 }
@@ -53,11 +53,6 @@ body {
   padding: 1.5rem 0 0;
 }
 
-@media only screen and (min-width: 25em) {
-
-
-}
-
 @media only screen and (min-width: 38em) {
 
   html {
@@ -66,7 +61,7 @@ body {
   }
 
   .text-flex {
-    padding: 1.125rem;
+    padding: 1rem;
     margin: 0;
     background-color: rgba(0, 0, 0, .3);
     color: #fff;
