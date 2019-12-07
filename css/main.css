@@ -32,7 +32,7 @@ body {
 
 .img-flex {
   width: 100%;
-  display: inline;
+  display: flex;
 }
 
 .text-flex {
